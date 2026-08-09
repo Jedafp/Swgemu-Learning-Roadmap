@@ -25,6 +25,18 @@ Don't take those times as requirements. With a large existing C++ project, code-
 
 Phase 1 — Learn Programming Through Lua
 
+My recommended Phase 1 combination
+
+If you want the simplest possible curriculum, use just three resources:
+
+Learn: Programming in Lua
+Practice: Exercism Lua
+Reference: Official Lua Documentation
+
+And continuously build your own little programs.
+
+That's enough for Phase 1. You don't need to collect 15 different Lua courses before beginning.
+
 Goal: Learn how programming works without simultaneously fighting C++ complexity.
 
 Start here rather than taking a separate programming language first.
